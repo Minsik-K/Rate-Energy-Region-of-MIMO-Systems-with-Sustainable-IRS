@@ -8,5 +8,5 @@ If you use this code for your research, please cite our paper.
 
 ## Software Versions
 * Matlab R2021a
-* Communications Toolbox??
+* Communications Toolbox
 
